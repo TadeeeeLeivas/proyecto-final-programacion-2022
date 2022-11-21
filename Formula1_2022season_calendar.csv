@@ -1,0 +1,23 @@
+Round;Country;City;Circuit Name;GP Name;Race Date;First GP;Number of Laps;Circuit Length(km);Race Distance(km);Lap Record;Record Owner;Record Year;Turns;DRS Zones
+1;Bahrain;Sakhir;Bahrain International Circuit;Bahrain Grand Prix;20-Mar-22;2004;57;5.412;308.238;1:31.447;Pedro de la Rosa;2005;15;3
+2;Saudi Arabia;Jeddah;Jeddah Corniche Circuit;Saudi Arabian Grand Prix;27-Mar-22;2021;50;6.174;308.450;1:30.734;Lewis Hamilton;2021;27;3
+3;Australia ;Melbourne;Albert Park Circuit;Australian Grand Prix;10-Apr-22;1985;58;5.278;306.124;1:24.125;Michael Schumacher;2004;16;3
+4;Italy;Imola;Autodromo Enzo e Dino Ferrari;Emilia Romagna Grand Prix;24-Apr-22;1980;63;4.909;309.049;1:15.484;Lewis Hamilton;2020;19;1
+5;United States;Miami ;Miami International Autodrome;Miami Grand Prix;8-May-22;2022;57;5.412;308.326;1:31.361;Max Verstappen;2022;19;3
+6;Spain;Catalunya;Circuit de Barcelona-Catalunya;;22-May-22;1991;66;4.675;308.424;1:18.149;Max Verstappen;2021;16;2
+7;Monaco;Monte Carlo;Circuit de Monaco;Monaco Grand Prix;29-May-22;1950;78;3.337;260.286;1:12.909;Lewis Hamilton;2021;19;1
+8;Azerbaijan;Baku;Baku City Circuit;Azerbaijan Grand Prix;12-Jun-22;2016;51;6.003;306.049;1:43.009;Charles Leclerc;2019;20;2
+9;Canada ;Montreal;Circuit Gilles Villeneuve;Canadian Grand Prix;19-Jun-22;1978;70;4.361;305.270;1:13.078;Valtteri Bottas;2019;14;3
+10;Great Britain;Siverstone;Silverstone Circuit;British Grand Prix;3-Jul-22;1950;52;5.891;306.198;1:27.097;Max Verstappen;2020;18;2
+11;Austria;Spielberg;Red Bull Ring;Austrian Grand Prix;10-Jul-22;1970;71;4.318;306.452;1:05.619;Carlos Sainz;2020;10;3
+12;France;Le Castellet;Circuit Paul Ricard;French Grand Prix;24-Jul-22;1971;53;5.842;309.690;1:32.740;Sebastian Vettel;2019;15;2
+13;Hungary;Budapest;Hungaroring;Hungarian Grand Prix;31-Jul-22;1986;70;4.381;306.630;1:21.386;Lewis Hamilton;2020;14;1
+14;Belgium;Spa-Francorchamps;Circuit de Spa-Francorchamps;Belgian Grand Prix;28-Aug-22;1950;44;7.004;308.052;1:48.286;Valtteri Bottas;2018;19;2
+15;Netherlands;Zandvoort;Circuit Zandvoort;Dutch Grand Prix;4-Sep-22;1952;72;4.259;306.587;1:11.097;Lewis Hamilton;2021;14;2
+16;Italy;Monza;Autodromo Nazionale Monza;Italian Grand Prix;11-Sep-22;1950;53;5.793;306.720;1:21.046;Rubens Barrichello;2004;11;2
+17;Singapore;Singapore;Marina Bay Street Circuit;Singapore Grand Prix;2-Oct-22;2008;61;5.063;308.706;1:41.905;Kevin Magnussen;2018;23;3
+18;Japan;Suzuka City;Suzuka Circuit ;Japanese Grand Prix;9-Oct-22;1963;53;5.807;307.471;1:30.983;Lewis Hamilton;2019;18;1
+19;United States;Austin;Circuit of the Americas;United States Grand Prix ;23-Oct-22;2012;56;5.513;308.405;1:36.169;Charles Leclerc;2019;20;2
+20;Mexico;Mexico City;Autodromo Hermanos Rodriguez;Mexico City Grand Prix;30-Oct-22;1963;71;4.304;305.354;1:17.774;Valtteri Bottas;2021;17;3
+21;Brazil;Sao Paulo;Autodromo José Carlos Pace;Sao Paulo Grand Prix;13-Nov-22;1973;71;4.309;305.879;1:10.540;Valtteri Bottas;2018;15;2
+22;Abu Dhabi;Yas Island;Yas Marina Circuit;Abu Dhabi Grand Prix;20-Nov-22;2009;58;5.281;306.183;1:26.103;Max Verstappen;2021;16;2
